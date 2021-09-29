@@ -12,7 +12,7 @@ Aim of this project is to create a simple and effective BlogAPI in Django Rest F
 Through this project, I have learned a lot of things, like how to create an API, and authentication plus authorization, and the use of views and routers and documentation.
 
 
-Built In
+## Built In
 
 * Python Django
 * Django Rest Framework
