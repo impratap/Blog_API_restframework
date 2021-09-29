@@ -25,6 +25,17 @@ Through this project, I have learned a lot of things, like how to create an API,
 * Routers
 * Documentation
 
+## Screen Shot
+
+Post List
+
+![Post List – Django REST framework - Google Chrome 30-09-2021 1 04 09 AM](https://user-images.githubusercontent.com/33418077/135336972-df69b15f-ed4a-4551-8c18-62a2822c92bb.png)
+
+Post Detail
+
+![Post List – Django REST framework - Google Chrome 30-09-2021 1 05 14 AM](https://user-images.githubusercontent.com/33418077/135337127-897db17f-114b-4f12-892e-90e1db68a9dc.png)
+
+
 # Acknowledgements
 
 Book - Django for API
